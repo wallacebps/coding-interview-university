@@ -287,7 +287,7 @@ Essa é uma lista menor comparada à que eu usei. Está abreviada para economiza
 
 ### Preparação para a Entrevista
 
-- [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html) (Entrevistas de Programação Expostas: Segredos para Conseguir Seu Próximo Emprego, 2ª Edição)
+- [ teste ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html) (Entrevistas de Programação Expostas: Segredos para Conseguir Seu Próximo Emprego, 2ª Edição)
     - respostas em C++ e Java
     - esse é um bom aquecimento para o Cracking the Coding Interview (Decifrando a Entrevista de Programação)
     - não é muito difícil, a maioria dos problemas poderão ser mais fáceis que aqueles que você verá em uma entrevista (de acordo com o que li)
